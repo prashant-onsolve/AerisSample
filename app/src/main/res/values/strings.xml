@@ -1,0 +1,5 @@
+<resources>
+    <string name="aerisapi_client_id">REDACTED</string>
+    <string name="aerisapi_client_secret">REDACTED</string>
+    <string name="app_name">AerisSample</string>
+</resources>
